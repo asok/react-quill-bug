@@ -1,0 +1,20 @@
+{
+  "name": "react-quill-bug",
+  "version": "0.1.0",
+  "dependencies": {
+    "babel-core": "~4.4.3",
+    "babel-loader": "~4.0.0",
+    "react": "~0.13.0",
+    "react-quill": "0.0.4",
+    "webpack": "~1.5.3",
+    "webpack-dev-server": "~1.8.0",
+    "html-webpack-plugin": "~1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch": "webpack --progress --colors --watch",
+    "dev": "webpack-dev-server --hot --inline"
+  },
+  "author": "Nukomeet",
+  "license": "MIT"
+}
